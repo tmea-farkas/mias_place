@@ -26,9 +26,15 @@ header {
     width: 100%;
     box-shadow: 0 3px 3px #301919;
 }
-
+header a {
+    text-decoration: none;
+    background-color: white;
+}
 h1 {
     font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #301919;
 }
 
 /*Main*/
