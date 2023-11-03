@@ -8,6 +8,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /*General styles*/
 body {
     min-height: 100vh;
@@ -16,17 +17,19 @@ body {
     color: #301919;
     font-family: 'Lato', sans-serif;
 }
+
 /*Header*/
 header {
     background-color: red;
 }
-
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
 /*Main*/
 main {
     background-color: burlywood;
     flex: 1 0 auto;
 }
-
 /*Footer*/
 footer {
     background-color: grey;
