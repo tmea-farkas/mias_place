@@ -86,9 +86,43 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: #690202;
+    background-color: #750404;
 }
 #social-media i {
     color: black;
     font-size: 120%;
+}
+/*Media queries*/
+
+/*Tablets and up*/
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width:fit-content;
+    }
+    #menu {
+        display: flex;
+    }
+    #menu>li {
+        padding-left: 3rem;
+    }
+    .toggle-label {
+        display: none;
+    }
+    #logo {
+        font-size: 200%;
+        line-height: 80px;
+    }
+    main {
+        margin-top: 81px;
+    }
+}
+/*Laptops and above*/
+@media screen and (min-width: 992px){
+    #menu a:hover {
+color:#690202;
+border-bottom: groove;
+    }
 }
