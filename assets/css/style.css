@@ -44,6 +44,15 @@ main {
 }
 
 /*Footer*/
-footer {
-    background-color: grey;
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: #690202;
+}
+#social-media i {
+    color: black;
+    font-size: 120%;
 }
