@@ -29,26 +29,31 @@ header {
     display: flex;
     align-items: baseline;
 }
+
 header a {
     text-decoration: none;
     background-color: #ffffff;
 }
+
 h1 {
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
     color: #301919;
 }
+
 #menu {
     list-style-type: none;
     font-size: 110%;
     letter-spacing: 4px;
 }
+
 #menu>li {
     margin-bottom: 0.5em;
 }
+
 .active {
-    color:#690202;
+    color: #690202;
     font-weight: bold;
 }
 
@@ -64,19 +69,26 @@ nav {
     display: none;
     top: 100%;
 }
+
 /*Nav toggle*/
 #toggle:checked~nav {
     display: block;
 }
+
 #toggle {
     display: none;
 }
 
 /*Main*/
 main {
-    background-color: burlywood;
     flex: 1 0 auto;
     margin-top: 50px;
+}
+
+#hero {
+    width: 100%;
+    height: 600px;
+    background: url("../images/table2.webp") no-repeat center center/cover;
 }
 
 /*Footer*/
@@ -88,10 +100,12 @@ main {
     list-style-type: none;
     background-color: #750404;
 }
+
 #social-media i {
     color: black;
     font-size: 120%;
 }
+
 /*Media queries*/
 
 /*Tablets and up*/
@@ -100,29 +114,35 @@ main {
         display: block;
         position: relative;
         box-shadow: none;
-        width:fit-content;
+        width: fit-content;
     }
+
     #menu {
         display: flex;
     }
+
     #menu>li {
         padding-left: 3rem;
     }
+
     .toggle-label {
         display: none;
     }
+
     #logo {
         font-size: 200%;
         line-height: 80px;
     }
+
     main {
         margin-top: 81px;
     }
 }
+
 /*Laptops and above*/
-@media screen and (min-width: 992px){
+@media screen and (min-width: 992px) {
     #menu a:hover {
-color:#690202;
-border-bottom: groove;
+        color: #690202;
+        border-bottom: groove;
     }
 }
