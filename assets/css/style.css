@@ -47,6 +47,10 @@ h1 {
 #menu>li {
     margin-bottom: 0.5em;
 }
+.active {
+    color:#690202;
+    font-weight: bold;
+}
 
 /*Navbar styles*/
 
