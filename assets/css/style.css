@@ -84,7 +84,7 @@ main {
     flex: 1 0 auto;
     margin-top: 50px;
 }
-
+/*Hero image and text*/
 #hero {
     width: 100%;
     height: 100vh;
@@ -104,6 +104,31 @@ main {
     font-family: 'Poppins', sans-serif;
     -webkit-text-stroke: #690202 .3px;
 
+}
+/*Events section*/
+#events {
+    text-align: center;
+    background-color: #b63f24;
+    box-shadow: 0 3px 3px #301919;
+}
+#events h2 {
+    font-weight:900;
+    font-size: 160%;
+}
+#upcoming-events {
+    background: url(../images/art.jpg) no-repeat center center/cover;
+    height:min-content;
+    text-align: left;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+#upcoming-events div {
+    background-color: rgba(0, 0, 0, .2);
+    text-align: center;
+    padding: 20px;
+    color: rgb(219, 125,18);
+    -webkit-text-stroke: black .2px;
+    border: 2px solid #b63f24;
 }
 
 /*Footer*/
