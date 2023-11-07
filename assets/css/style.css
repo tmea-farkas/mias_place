@@ -20,7 +20,7 @@ body {
 
 /*Header*/
 header {
-    background-color: #b63f24;
+    background-color: #ebebeb;
     padding: 0 1rem;
     position: fixed;
     width: 100%;
@@ -32,7 +32,7 @@ header {
 
 header a {
     text-decoration: none;
-    background-color: #b63f24;
+    background-color: #ebebeb;
 }
 
 h1 {
@@ -61,7 +61,7 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: #b63f24;
+    background-color: #ebebeb;
     width: 100%;
     padding: 2px 0;
     left: 0;
@@ -93,27 +93,28 @@ main {
 
 }
 #description {
-    font-size: 100%;
+    font-size: 150%;
     font-weight: bold;
     width: 80%;
     position: relative;
     text-align: center;
     top: 5%;
     left: 10%;
-    color: #ac9c4e;
+    color: #ebebeb;
+    opacity: .6;
     font-family: 'Poppins', sans-serif;
-    -webkit-text-stroke: #690202 .3px;
 
 }
 /*Events section*/
 #events {
     text-align: center;
-    background-color: #b63f24;
+    background-color: #ebebeb;
     box-shadow: 0 3px 3px #301919;
 }
-#events h2 {
-    font-weight:900;
-    font-size: 160%;
+#events h3 {
+    font-weight:bold;
+    font-size: 150%;
+    font-family: 'Poppins', sans-serif;
 }
 #upcoming-events {
     background: url(../images/art.jpg) no-repeat center center/cover;
@@ -123,12 +124,13 @@ main {
     font-weight: bold;
 }
 #upcoming-events div {
-    background-color: rgba(0, 0, 0, .2);
+    background-color: rgba(0, 0, 0, .3);
     text-align: center;
     padding: 20px;
-    color: rgb(219, 125,18);
-    -webkit-text-stroke: black .2px;
-    border: 2px solid #b63f24;
+    color: rgb(235, 235, 235);
+    border: 3px solid #ebebeb;
+    flex-basis: 200px;
+    flex-grow: 1;
 }
 
 /*Footer*/
@@ -138,7 +140,7 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: #b63f24;
+    background-color: #ebebeb;
 }
 
 #social-media i {
@@ -177,6 +179,10 @@ main {
     main {
         margin-top: 81px;
     }
+    #description {
+        font-size: 170%;
+        top: 20%;
+    }
 }
 
 /*Laptops and above*/
@@ -189,7 +195,7 @@ main {
         background-size:initial;
     }
     #description {
-        font-size: 150%;
+        font-size: 230%;
         top: 15%;
     }
 }
