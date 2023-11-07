@@ -239,6 +239,10 @@ main {
     #description {
         font-size: 230%;
         top: 10%;
+        color:#ebebeb;
+        opacity:unset;
+        align-items: center;
+        top: 20%;
     }
 
     #introduction {
