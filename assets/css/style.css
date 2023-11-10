@@ -160,7 +160,7 @@ main {
 }
 /*Enquire page*/
 #enquire {
-    background-image: url(../images/wall.jpg);
+  background-image: url(/assets/images/wall.jpg);
 
 }
 
