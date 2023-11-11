@@ -160,7 +160,6 @@ main {
 }
 /*Events page*/
 
-/*Recent events section*/
 #event-photos img {
     width: 100%;
     line-height: 1em;
@@ -178,7 +177,6 @@ main {
 #events-gallery p {
     text-align: center;
 }
-/*Interior section*/
 
 /*Enquire page*/
 
@@ -344,6 +342,7 @@ label[for=ask-us] {
     #introduction p {
         font-size: 120%;
     }
+    /*Events page*/
     #event-photos, #place-photos {
         column-count: 2;
         column-gap: 2px;
