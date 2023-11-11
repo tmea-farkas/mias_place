@@ -158,6 +158,18 @@ main {
     flex-basis: 200px;
     flex-grow: 1;
 }
+/*Events page*/
+
+/*Recent events section*/
+#event-photos img {
+    width: 100%;
+
+}
+#place-photos img {
+    width: 100%;
+}
+/*Interior section*/
+
 /*Enquire page*/
 
 /*Enquire section styles*/
@@ -265,6 +277,7 @@ label[for=ask-us] {
     padding: 5px 10px;
     justify-content: center;
     border: 2px solid;
+    color:#690202;
 }
 /*Footer*/
 #social-media {
