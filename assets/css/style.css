@@ -162,9 +162,8 @@ main {
 
 #enquire h2 {
     text-align: center;
-    font-size: 120%;
-
-
+    font-size: 140%;
+    font-weight: 900;
 }
 #music {
     background: url(/assets/images/musician.jpeg) no-repeat center center/cover;
@@ -194,7 +193,7 @@ main {
         text-align: center;
         font-size: 40px;
         color: #ebebeb;
-        padding-top: 60px;
+        padding-top: 70px;
 }
 #sponsor {
     background: url(/assets/images/art-lover.jpg) no-repeat center center/cover;
