@@ -163,10 +163,20 @@ main {
 /*Recent events section*/
 #event-photos img {
     width: 100%;
-
+    line-height: 1em;
 }
 #place-photos img {
     width: 100%;
+}
+#events-gallery {
+    background-color: #ebebeb;
+}
+#events-gallery h2{
+    text-align: center;
+    padding: 5px 10px;
+}
+#events-gallery p {
+    text-align: center;
 }
 /*Interior section*/
 
@@ -334,6 +344,10 @@ label[for=ask-us] {
     #introduction p {
         font-size: 120%;
     }
+    #event-photos, #place-photos {
+        column-count: 2;
+        column-gap: 2px;
+    }
 }
 
 /*Laptops and above*/
@@ -366,4 +380,9 @@ label[for=ask-us] {
     #introduction p {
         font-size: 120%;
     }
+    /*Events page*/
+    #event-photos, #place-photos {
+        column-count: 3;
+        column-gap: 2px;
+        }
 }
