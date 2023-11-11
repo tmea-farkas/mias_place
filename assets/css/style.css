@@ -160,6 +160,14 @@ main {
 }
 /*Enquire page*/
 
+/*Enquire section styles*/
+#enquire {
+    color: #690202;
+    background-color: #ebebeb;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
 #enquire h2 {
     text-align: center;
     font-size: 140%;
@@ -205,7 +213,59 @@ main {
         color: #ebebeb;
         padding-top: 60px;
 }
+#enquire a {
+    text-decoration: none;
+}
+/*Reach out secion styles*/
+#reach-out {
+    color: #690202;
+    background-color: #ebebeb;
+    padding: 5px;
+}
+#reach-out h2 {
+    text-align: center;
+}
+.full-name {
+    color:#690202;
+    background: transparent;
+    font-size: 15px;
+    border: 1.5px solid;
+    width: 100%;
+}
+label[for=full-name] {
+    font-size: 20px;
+    font-weight: bold;
+}
+.email-address {
+    color: #690202;
+    background: transparent;
+    font-size: 15px;
+    border: 1.5px solid;
+    width: 100%;
+}
 
+label[for=email] {
+    font-size: 20px;
+    font-weight: bold;
+}
+#ask-us {
+    color: #690202;
+    background: transparent;
+    font-size: 15px;
+    border: 1.5px solid;
+    width: 100%;
+}
+
+label[for=ask-us] {
+    font-size: 20px;
+    font-weight: bold;
+}
+.submit-button {
+    font-size: 20px;
+    padding: 5px 10px;
+    justify-content: center;
+    border: 2px solid;
+}
 /*Footer*/
 #social-media {
     text-align: center;
