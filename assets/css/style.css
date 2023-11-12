@@ -180,99 +180,54 @@ main {
 
 /*Enquire page*/
 
-/*Enquire section styles*/
-#enquire {
-    color: #690202;
-    background-color: #ebebeb;
-    display: flex;
-    flex-direction: column;
-    padding: 5px;
-}
-#enquire h2 {
-    text-align: center;
-    font-size: 140%;
-    font-weight: 900;
-}
-#music {
-    background: url(/assets/images/musician.jpeg) no-repeat center center/cover;
-    height: 300px;
-    width: 300px;
-    border-radius: 50%;
-    text-align: center;
-    font-size: 40px;
-    color: #ebebeb;
-    padding-top: 60px;
-}
-#painter {
-    background: url(/assets/images/painter.jpeg) no-repeat center center/cover;
-        height: 300px;
-        width: 300px;
-        border-radius: 50%;
-        text-align: center;
-        font-size: 40px;
-        color: #ebebeb;
-        padding-top: 60px;
-}
-#vendor {
-    background: url(/assets/images/pottery.jpeg) no-repeat center center/cover;
-        height: 300px;
-        width: 300px;
-        border-radius: 50%;
-        text-align: center;
-        font-size: 40px;
-        color: #ebebeb;
-        padding-top: 70px;
-}
-#sponsor {
-    background: url(/assets/images/art-lover.jpg) no-repeat center center/cover;
-        height: 300px;
-        width: 300px;
-        border-radius: 50%;
-        text-align: center;
-        font-size: 40px;
-        color: #ebebeb;
-        padding-top: 60px;
-}
-#enquire a {
-    text-decoration: none;
-}
 /*Reach out secion styles*/
-#reach-out {
-    color: #690202;
-    background-color: #ebebeb;
-    padding: 5px;
+#form-image {
+    background: url(../images/enquire-photo.webp) no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+#form {
+    position: relative;
+    padding: 0 10px;
+    color: #ebebeb;
 }
 #reach-out h2 {
     text-align: center;
 }
+
 .full-name {
-    color:#690202;
+    color: #ebebeb;
     background: transparent;
     font-size: 15px;
-    border: 1.5px solid;
+    border: 2px solid;
     width: 100%;
 }
+
 label[for=full-name] {
     font-size: 20px;
     font-weight: bold;
 }
+
 .email-address {
-    color: #690202;
+    color: #ebebeb;
     background: transparent;
     font-size: 15px;
-    border: 1.5px solid;
+    border: 2px solid;
     width: 100%;
 }
 
-label[for=email] {
+label[for=email-address] {
     font-size: 20px;
     font-weight: bold;
 }
+
 #ask-us {
-    color: #690202;
+    color: #ebebeb;
     background: transparent;
     font-size: 15px;
-    border: 1.5px solid;
+    border: 2px solid;
     width: 100%;
 }
 
@@ -280,12 +235,14 @@ label[for=ask-us] {
     font-size: 20px;
     font-weight: bold;
 }
+
 .submit-button {
     font-size: 20px;
     padding: 5px 10px;
     justify-content: center;
     border: 2px solid;
-    color:#690202;
+    color: #690202;
+    position:relative;
 }
 /*Footer*/
 #social-media {
