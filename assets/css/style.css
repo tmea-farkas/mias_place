@@ -183,18 +183,22 @@ main {
 /*Reach out secion styles*/
 #form-image {
     background: url(../images/enquire-photo.webp) no-repeat center center/cover;
-    height: 100%;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-grow: 1;
     background-position: 75%;
     padding: 10px 5% 0 5%;
-
 }
 #form {
     position: relative;
     padding: 0 10px;
     color: #ebebeb;
+    flex-direction: column;
+    flex-grow: 1;
+    max-width: 500px;
+    max-height: 800px;
+    display: flex;
 }
 #reach-out h2 {
     text-align: center;
@@ -247,6 +251,7 @@ label[for=ask-us] {
     color: #690202;
     position:relative;
 }
+
 /*Footer*/
 #social-media {
     text-align: center;
