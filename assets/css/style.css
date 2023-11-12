@@ -186,6 +186,9 @@ main {
     height: 100%;
     width: 100%;
     display: flex;
+    flex-grow: 1;
+    background-position: 75%;
+    padding: 10px 5% 0 5%;
 
 }
 #form {
@@ -341,4 +344,5 @@ label[for=ask-us] {
         column-count: 3;
         column-gap: 2px;
         }
+
 }
