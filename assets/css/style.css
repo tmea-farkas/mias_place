@@ -329,6 +329,7 @@ label[for=ask-us] {
 
     #introduction p {
         font-size: 120%;
+
     }
     /*Events page*/
     #event-photos, #place-photos {
@@ -359,13 +360,19 @@ label[for=ask-us] {
         align-items: center;
         top: 20%;
     }
+    #description h2 {
+        background-color: rgba(227, 78, 48, 0.6);
+        border-radius: 10px;
+    }
 
     #introduction {
         padding: 0 30px;
-    }
 
+    }
     #introduction p {
         font-size: 120%;
+        width: 80%;
+        padding-left: 20%;
     }
     /*Events page*/
     #event-photos, #place-photos {
