@@ -1,4 +1,8 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Mia's Place - Project Portfolio No.1
+
+Welcome to Mia's place!
+
+
 
 Welcome,
 
