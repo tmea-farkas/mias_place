@@ -160,22 +160,27 @@ main {
     flex-basis: 200px;
     flex-grow: 1;
 }
+
 /*Events page*/
 
 #event-photos img {
     width: 100%;
     line-height: 1em;
 }
+
 #place-photos img {
     width: 100%;
 }
+
 #events-gallery {
     background-color: #ebebeb;
 }
-#events-gallery h2{
+
+#events-gallery h2 {
     text-align: center;
     padding: 5px 10px;
 }
+
 #events-gallery p {
     text-align: center;
 }
@@ -192,6 +197,7 @@ main {
     background-position: 75%;
     padding: 10px 5% 0 5%;
 }
+
 #form {
     position: relative;
     padding: 0 10px;
@@ -202,6 +208,7 @@ main {
     max-height: 800px;
     display: flex;
 }
+
 #reach-out h2 {
     text-align: center;
 }
@@ -251,13 +258,15 @@ label[for=ask-us] {
     justify-content: center;
     border: 2px solid;
     color: #ebebeb;
-    position:relative;
+    position: relative;
     background-color: transparent;
 }
+
 .thank-you {
     text-decoration: none;
-    color:#ebebeb;
+    color: #ebebeb;
 }
+
 /*Thank you page*/
 #thankyou {
     text-align: center;
@@ -265,15 +274,17 @@ label[for=ask-us] {
     background-color: #ebebeb;
     font-size: 150%;
 }
+
 #thankyou-button {
     border: 2px solid #301919;
     border-radius: 3px;
     padding: 15px 30px;
 }
+
 .thankyou-button {
     font-size: 150%;
     text-decoration: none;
-    color:#301919;
+    color: #301919;
 }
 
 /*Footer*/
@@ -332,8 +343,10 @@ label[for=ask-us] {
         font-size: 120%;
 
     }
+
     /*Events page*/
-    #event-photos, #place-photos {
+    #event-photos,
+    #place-photos {
         column-count: 2;
         column-gap: 2px;
     }
@@ -350,6 +363,7 @@ label[for=ask-us] {
         background-image: url(../images/hero.jpg);
         position: relative;
     }
+
     .hero {
         background-size: initial;
     }
@@ -357,11 +371,12 @@ label[for=ask-us] {
     #description {
         font-size: 230%;
         top: 10%;
-        color:#ebebeb;
-        opacity:unset;
+        color: #ebebeb;
+        opacity: unset;
         align-items: center;
         top: 20%;
     }
+
     #description h2 {
         background-color: rgba(227, 78, 48, 0.6);
         border-radius: 10px;
@@ -372,15 +387,18 @@ label[for=ask-us] {
         padding: 0 30px;
 
     }
+
     #introduction p {
         font-size: 120%;
         width: 80%;
         padding-left: 20%;
     }
+
     /*Events page*/
-    #event-photos, #place-photos {
+    #event-photos,
+    #place-photos {
         column-count: 3;
         column-gap: 2px;
-        }
+    }
 
 }
