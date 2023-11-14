@@ -56,3 +56,14 @@ All images were sourced from two places: Pexels.com and the Facebook page of my 
 ! [Small screen header] (<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/mobile-header.png>)
 ! [Large screen header] (https://github.com/tmea-farkas/mias_place/blob/main/assets/images/header.png)
 
+- The landing page:
+The landing page is my favourite. It's simple but informative. The visitor will know the base ethos and will feel inticed to know more.
+! [Home page] (<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/home-page.png>)
+
+- The footer:
+The footer is available on every page and provides links to all relevant social media for the user to help keep in contact and informed of all events.
+! [Footer] (https://github.com/tmea-farkas/mias_place/blob/main/assets/images/footer.png)
+
+-The Events page:
+This page is as a gallery for now, but intended to have all necessary information regarding events.
+! [Events page] ()
