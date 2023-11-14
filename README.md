@@ -2,7 +2,9 @@
 
 Welcome to Mia's Place!
 
-![Responsive image of the website]()
+![Responsive image of the website](https://github.com/tmea-farkas/mias_place/blob/main/assets/images/responsive.png)
+
+## Introduction
 
 Mia's Place is a social hub for artists and art lovers.
 
@@ -15,41 +17,36 @@ Where spectators can admire, relate and connect with the person on the other sid
 In the following sections I will showcase how the website was built. Including tools, ideas and help aquired.
 
 
+## Contents
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## User Experience
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Design 
 
-## Codeanywhere Reminders
+### Colours
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+I used only two colours when building the site as to achieve the look of a minimalistic, polished undertone keeping in mind the accessibility for people with sight problems.
 
-`python3 -m http.server`
+The colours are:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+1. Mercury Color ( Hex: #ebebeb) - as a background color
+2. Black Kite ( Hex: #301919) - for several design elements, ex. header, box-shadow.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Typography
 
-`http_server`
+When it came to choosing fonts for the site, I found it important to -again- consider individuals that are sight-impaired. 
+Decided on using:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+1. Lato - for paragraphs.
+2. Poppins - for headings.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Both of which were used by applying the *sans-serif style* to further assure visibility.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Images 
 
-To log into the Heroku toolbelt CLI:
+Every image was carefully considered and placed on each page with the intention to grab the attention of the visitor as well as to give a sort of *feel* of the physical place before visiting or provide a sense of familiarity to those who are returning.
+All images were sourced from two places: Pexels.com and the Facebook page of my favourite bar back home in Romania.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Features
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
