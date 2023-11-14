@@ -1,6 +1,18 @@
-# Mia's Place - Project Portfolio No.1
+# Mia's Place 
 
-Welcome to Mia's place!
+Welcome to Mia's Place!
+
+![Responsive image of the website]()
+
+Mia's Place is a social hub for artists and art lovers.
+
+The aim is to help local, young -or young-in-spirit- artists get more exposure for their work, help small businesses while entertaining all, who's interested or just wants to have a drink in a cozy and quirky locale.
+The website was created as a sort of adverisement for the place, providing basic information, gallery and a channel to get in touch through.
+
+I created this website for my first project as I've got most of my work experience in hospitality and back then I had this idea of creating a space where creators can express their thoughts, feelings and personality through art.
+Where spectators can admire, relate and connect with the person on the other side of the piece all the while having fun and enjoying themselves. A culture-pub - if you will.
+
+In the following sections I will showcase how the website was built. Including tools, ideas and help aquired.
 
 
 
