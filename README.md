@@ -57,24 +57,24 @@ All images were sourced from two places: Pexels.com and the Facebook page of my 
 ### Existing features
 
 - The Header : This fully responsive feature will allow users to navigate the website without ever having to revert back to the preiious page by using the 'back' button.
-! [Small screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/mobile-header.png>)
-! [Large screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/header.png>)
+![Small screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/mobile-header.png>)
+![Large screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/header.png>)
 
 - The landing page:
 The landing page is my favourite. It's simple but informative. The visitor will know the base ethos and will feel inticed to know more.
-! [Home page](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/home-page.png>)
+![Home page](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/home-page.png>)
 
 - The footer:
 The footer is available on every page and provides links to all relevant social media for the user to help keep in contact and informed of all events.
-! [Footer](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/footer.png>)
+![Footer](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/footer.png>)
 
 -The Events page:
 This page is as a gallery for now, but intended to have all necessary information regarding events. **Note the alternative text feature for accessibility.**
-! [Events page](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/alt-text.png>)
+![Events page](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/alt-text.png>)
 
 -The Enquire page:
 The Enquire page is equipped with a clear and simple form where the user, if interested, is able to contact us with any question or query. **All areas validated, so the user won't be able to submit an empty or incorrectly filled form**
-! [Enquiry form](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/form.png>)
+![Enquiry form](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/form.png>)
 
 -The Thank you page
 To ensure visitor satisfaction and instant feedback, I've added a thank you page that will pop-up once the form is submitted. It also has a button that will take the user back the the Home page.
@@ -118,4 +118,4 @@ To deploy the project I used GitHub as my hosting platform and took the steps as
 - under branch click **Save**
 
 Once I went back to the Code page and refreshed I could see the active link
-! [Mia's Place](<https://tmea-farkas.github.io/mias_place/>)
+[Mia's Place](<https://tmea-farkas.github.io/mias_place/>)
