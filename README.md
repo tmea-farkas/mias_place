@@ -50,3 +50,9 @@ All images were sourced from two places: Pexels.com and the Facebook page of my 
 
 ## Features
 
+### Existing features
+
+- The Header : This fully responsive feature will allow users to navigate the website without ever having to revert back to the preiious page by using the 'back' button. 
+! [Small screen header] (<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/mobile-header.png>)
+! [Large screen header] (https://github.com/tmea-farkas/mias_place/blob/main/assets/images/header.png)
+
