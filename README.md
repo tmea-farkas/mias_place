@@ -56,12 +56,13 @@ All images were sourced from two places: Pexels.com and the Facebook page of my 
 
 ### Existing features
 
-- The Header : This fully responsive feature will allow users to navigate the website without ever having to revert back to the preiious page by using the 'back' button.
+- The Header:
+This fully responsive feature will allow users to navigate the website without ever having to revert back to the previous page by using the 'back' button.
 ![Small screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/mobile-header.png>)
 ![Large screen header](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/header.png>)
 
 - The landing page:
-The landing page is my favourite. It's simple but informative. The visitor will know the base ethos and will feel inticed to know more.
+The landing page is my favourite. It's simple but informative. The visitor will know the base ethos and will feel enticed to know more.
 ![Home page](<https://github.com/tmea-farkas/mias_place/blob/main/assets/images/home-page.png>)
 
 - The footer:
