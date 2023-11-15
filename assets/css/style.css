@@ -275,18 +275,6 @@ label[for=ask-us] {
     font-size: 150%;
 }
 
-#thankyou-button {
-    border: 2px solid #301919;
-    border-radius: 3px;
-    padding: 15px 30px;
-}
-
-.thankyou-button {
-    font-size: 150%;
-    text-decoration: none;
-    color: #301919;
-}
-
 /*Footer*/
 #social-media {
     text-align: center;
