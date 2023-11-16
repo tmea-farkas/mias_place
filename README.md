@@ -153,4 +153,5 @@ Once I went back to the Code page and refreshed I could see the active link
 ## Credits
 
 - Code used
-  - I've used the asterix wildcard selector CSS from the Love Running walkthrough project ![Asterix Wildcard] ()
+  - I've used the asterix wildcard selector CSS from the Love Running walkthrough project ![Asterix Wildcard](https://github.com/tmea-farkas/mias_place/blob/main/readme/asterix.png)
+  - 
