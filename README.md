@@ -16,17 +16,15 @@ Where spectators can admire, relate and connect with the person on the other sid
 
 In the following sections I will showcase how the website was built. Including tools, ideas and help acquired.
 
-## Contents
-
- b
-
 ## User Experience
 
-b
+The objective of the project was to create a website that is easy to navigate, all necessary information and tools provided for the user to be able to research and get in contact with the business.
+Initially, I wanted to add other features, like further information about the artworks and artists that we worked with in the past, but I realised that for the user that information is easily accessible either in person or via email, so user that are not interested wouldn't have to scroll through information that they don't need to get to the parts they do.
+When organising the content, I aimed for simplicity and logic. Having an introduction and basic information on the first page meant that the user (new or returning) will be able to see who we are and what could be of interest for them.
+The navigation of the website is easy and accessible. There are multiple was to navigate the pages and is structurally logical.
+Lastly, on the surface the user will experience a website that is informative, easily navigated and visually pleasing. For users that have visual impairments there are alternative ways to realise what the website is about, like alternative text underneath images and well contasting colour-scheme.
 
 ## Design
-
-b
 
 ### Colours
 
@@ -50,7 +48,6 @@ Both of which were used by applying the *sans-serif style* to further assure vis
 ### Images
 
 Every image was carefully considered and placed on each page with the intention to grab the attention of the visitor as well as to give a sort of *feel* of the physical place before visiting or provide a sense of familiarity to those who are returning.
-All images were sourced from two places: Pexels.com and the Facebook page of my favourite bar back home in Romania.
 
 ## Features
 
@@ -59,6 +56,7 @@ All images were sourced from two places: Pexels.com and the Facebook page of my 
 #### The Header
 
 This fully responsive feature will allow users to navigate the website without ever having to revert back to the previous page by using the 'back' button.
+
 ![Small screen header](https://github.com/tmea-farkas/mias_place/blob/main/readme/mobile-header.png)
 ![Large screen header](https://github.com/tmea-farkas/mias_place/blob/main/readme/header.png)
 
@@ -66,21 +64,25 @@ This fully responsive feature will allow users to navigate the website without e
 
 The landing page is my favourite. It's simple but informative.
 The visitor will know the base ethos and will feel enticed to know more.
+
 ![Home page](https://github.com/tmea-farkas/mias_place/blob/main/readme/home-page.png)
 
 #### The footer
 
 The footer is visible on every page and provides links to all relevant social media for the user to help keep in contact and informed of all events.
+
 ![Footer](https://github.com/tmea-farkas/mias_place/blob/main/readme/footer.png)
 
 #### The Events page
 
 This page is as a gallery for now, but intended to have all necessary information regarding events. **Note the alternative text feature for accessibility.**
+
 ![Events page](<https://github.com/tmea-farkas/mias_place/blob/main/readme/alt-text.png>)
 
 #### The Enquire page
 
 The Enquire page is equipped with a clear and simple form where the user, if interested, is able to contact us with any question or query. **All areas validated, so the user won't be able to submit an empty or incorrectly filled form**
+
 ![Enquiry form](<https://github.com/tmea-farkas/mias_place/blob/main/readme/form.png>)
 
 #### The Thank you page
@@ -124,4 +126,8 @@ Once I went back to the Code page and refreshed I could see the active link
 
 ## Testing
 
-- There were no issues found when testing iith the official W3C HTML Validator.
+- HTML & CSS
+  - No errors returned when tested through the official W3C Validator.
+- Lighthouse
+- User tests
+  - I've tested the website on several different devices and
