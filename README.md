@@ -29,11 +29,11 @@ In the following sections I will showcase how the website was built. Including t
   - to be able to find new information easily
   - to be able to contact the creator for further information or to provide feedback
   
-Considering the user stories I approached the project the following way:
+Considering the user stories above I approached the project the following way:
 
 The objective was to create a website that is easy to navigate, all necessary information and tools provided for the user to be able to research and get in contact with the business.
 
-Initially, I wanted to add other features, like further information about the artworks and artists that we worked with in the past, but I realised that for the user that information is easily accessible either in person or via email, so users that are not interested wouldn't have to scroll through information that they don't need to get to the parts they do.
+Initially, I wanted to add other features, like further information and pricing about the artworks and artists that we worked with in the past, but I realised that for the user that information is easily accessible either in person or via email, so users that are not interested wouldn't have to scroll through information that they don't need to get to the parts they do.
 
 When organising the content, I aimed for simplicity and logic. Having an introduction and basic information on the first page meant that the user (new or returning) will be able to see who we are and what could be of interest for them.
 
@@ -135,7 +135,7 @@ To deploy the project I used GitHub as my hosting platform and took the steps as
 - go to **Settings**
 - in the **Code and Automation** section select **Pages**
 - select source to **deploy from branch**
-- select **main branch**
+- select **Main Branch**
 - under branch click **Save**
 
 Once I went back to the Code page and refreshed I could see the active link
@@ -147,11 +147,41 @@ Once I went back to the Code page and refreshed I could see the active link
   - No errors returned when tested through the official W3C Validator
 - Lighthouse
   - Results were the following
+  ![Home Page](https://github.com/tmea-farkas/mias_place/blob/main/readme/lh-home.png)
+  ![Events Page](https://github.com/tmea-farkas/mias_place/blob/main/readme/lh-events.png)
+  ![Enquire Page](https://github.com/tmea-farkas/mias_place/blob/main/readme/lh-enquire.png)
+  ![Thank You Page](https://github.com/tmea-farkas/mias_place/blob/main/readme/lh-thankyou.png)
 - User tests
   - I've tested the website on several different devices and have sent it to other people for testing which all came back positive.
 
 ## Credits
 
 - Code used
-  - I've used the asterix wildcard selector CSS from the Love Running walkthrough project ![Asterix Wildcard](https://github.com/tmea-farkas/mias_place/blob/main/readme/asterix.png)
-  - 
+  - I've used the asterix wildcard selector CSS from the Love Running walkthrough project
+
+  ![Asterix Wildcard](https://github.com/tmea-farkas/mias_place/blob/main/readme/asterix.png)
+
+  - Hanna Bergsten helped me with the Thank You Page Button format in HTML
+
+  ![Button Code](https://github.com/tmea-farkas/mias_place/blob/main/readme/button.png)
+
+  - Used Code Institute learning material to refresh my knowledge and take inspiration for building the code
+- Content
+  - written by me, Timea Farkas
+  - quote taken from blog.paperblanks.com
+
+- Media
+  - Favicon picture from Pexels.com and converted into facivon through favicon.io
+  - Pexels for hero image and Enquire Page image
+  - Facebook for Events Page images
+
+- Acknowledgements
+  - Jack Wachira, Code Institute Mentor
+  - Harry Dhillon, Code Institute Mentor
+  - Sherry Andrews Bhutia, lead
+  - Craig Hudson, lead
+  - Hanna Bergsten, lead
+
+I'd like to take this opportunity to thank everyone who helped me throughout this project with help in coding ideas and encouraging words alike. I hope you will enjoy going the project as much as I enjoyed creating it!
+
+Thank you!
