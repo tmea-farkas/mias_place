@@ -275,6 +275,13 @@ label[for=ask-us] {
     font-size: 150%;
 }
 
+.button {
+    text-decoration: underline;
+    font-weight: bolder;
+    color: #301919;
+    box-shadow: .5rem;
+}
+
 /*Footer*/
 #social-media {
     text-align: center;
