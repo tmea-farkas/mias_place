@@ -18,11 +18,28 @@ In the following sections I will showcase how the website was built. Including t
 
 ## User Experience
 
-The objective of the project was to create a website that is easy to navigate, all necessary information and tools provided for the user to be able to research and get in contact with the business.
-Initially, I wanted to add other features, like further information about the artworks and artists that we worked with in the past, but I realised that for the user that information is easily accessible either in person or via email, so user that are not interested wouldn't have to scroll through information that they don't need to get to the parts they do.
+### User stories
+
+- As a first time user I want
+  - to understand the purpose of the project from the first time I get to the landing page
+  - to be able to easily navigate through the content
+  - to progress through the pages easily without feeling overwhelmed or confused by the material
+  - to have only the neccessary information available without having to comb through to find what I need
+- As a returning user I want
+  - to be able to find new information easily
+  - to be able to contact the creator for further information or to provide feedback
+  
+Considering the user stories I approached the project the following way:
+
+The objective was to create a website that is easy to navigate, all necessary information and tools provided for the user to be able to research and get in contact with the business.
+
+Initially, I wanted to add other features, like further information about the artworks and artists that we worked with in the past, but I realised that for the user that information is easily accessible either in person or via email, so users that are not interested wouldn't have to scroll through information that they don't need to get to the parts they do.
+
 When organising the content, I aimed for simplicity and logic. Having an introduction and basic information on the first page meant that the user (new or returning) will be able to see who we are and what could be of interest for them.
-The navigation of the website is easy and accessible. There are multiple was to navigate the pages and is structurally logical.
-Lastly, on the surface the user will experience a website that is informative, easily navigated and visually pleasing. For users that have visual impairments there are alternative ways to realise what the website is about, like alternative text underneath images and well contasting colour-scheme.
+
+The navigation of the website is easy and accessible. There are multiple ways to navigate the pages and is structurally logical.
+
+Lastly, on the surface the user will experience a website that is informative, easily navigated and visually pleasing. For users that have visual impairments there are alternative ways to realise what the website is about, like alternative text underneath images and well a contrasting colour-scheme.
 
 ## Design
 
@@ -127,7 +144,13 @@ Once I went back to the Code page and refreshed I could see the active link
 ## Testing
 
 - HTML & CSS
-  - No errors returned when tested through the official W3C Validator.
+  - No errors returned when tested through the official W3C Validator
 - Lighthouse
+  - Results were the following
 - User tests
-  - I've tested the website on several different devices and
+  - I've tested the website on several different devices and have sent it to other people for testing which all came back positive.
+
+## Credits
+
+- Code used
+  - I've used the asterix wildcard selector CSS from the Love Running walkthrough project ![Asterix Wildcard] ()
