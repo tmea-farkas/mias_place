@@ -144,7 +144,7 @@ main {
 }
 
 #upcoming-events {
-    background: url(../images/interior/art.jpg) no-repeat center center/cover;
+    background: url(../images/interior/art.webp) no-repeat center center/cover;
     height: min-content;
     text-align: left;
     flex-wrap: wrap;
